@@ -1,0 +1,72 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+}
+
+.img-cont {
+    padding: 0.5em;
+}
+
+.sub-text {
+    text-justify:distribute;
+    color: rgb(163, 163, 163);
+}
+
+.hero-heading {
+    font-weight: bolder;
+    margin-top: 150px;
+    padding: 0.5em;
+}
+
+.about-sect {
+    background-color: rgb(236, 236, 236);
+    margin: 1em;
+    border-radius: 12px;
+    margin-top: 150px;
+}
+
+.about-header {
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.about-text {
+    color: rgb(163, 163, 163);
+    font-size: 1.5em;
+}
+
+span {
+    font-weight: 700;
+    color: rgb(26, 26, 26);
+}
+
+.card {
+    border-radius: 12px;
+    margin: 0.5em;
+    background-color: rgb(236, 236, 236);
+    border: none;
+}
+
+.card-text {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.card-cont {
+    align-items: center;
+    justify-content: center;
+}
+
+.portfolio-header {
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
